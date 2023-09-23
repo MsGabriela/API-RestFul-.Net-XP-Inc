@@ -1,0 +1,17 @@
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Data.deps.json
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Data.runtimeconfig.json
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Data.dll
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Data.pdb
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Business.dll
+G:\Repos\APIProdutosCRUD\APIIO.Data\bin\Debug\net7.0\APIIO.Business.pdb
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.csproj.AssemblyReference.cache
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.AssemblyInfoInputs.cache
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.AssemblyInfo.cs
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.csproj.CoreCompileInputs.cache
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.csproj.CopyComplete
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.dll
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\refint\APIIO.Data.dll
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.pdb
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\APIIO.Data.genruntimeconfig.cache
+G:\Repos\APIProdutosCRUD\APIIO.Data\obj\Debug\net7.0\ref\APIIO.Data.dll

@@ -1,0 +1,12 @@
+G:\Repos\APIProdutosCRUD\APIIO.Business\bin\Debug\net7.0\APIIO.Business.deps.json
+G:\Repos\APIProdutosCRUD\APIIO.Business\bin\Debug\net7.0\APIIO.Business.dll
+G:\Repos\APIProdutosCRUD\APIIO.Business\bin\Debug\net7.0\APIIO.Business.pdb
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.csproj.AssemblyReference.cache
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.AssemblyInfoInputs.cache
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.AssemblyInfo.cs
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.csproj.CoreCompileInputs.cache
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.dll
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\refint\APIIO.Business.dll
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\APIIO.Business.pdb
+G:\Repos\APIProdutosCRUD\APIIO.Business\obj\Debug\net7.0\ref\APIIO.Business.dll

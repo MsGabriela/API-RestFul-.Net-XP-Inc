@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9LoVgf2Hix6XMQfuzBKxaQ9SouRyjlEkGXpo+yNEDjA=",
+  "Source": "APIIO.Api",
+  "BasePath": "_content/APIIO.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
